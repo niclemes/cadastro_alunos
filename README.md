@@ -1,4 +1,4 @@
-# Cadastro de Alunos e Lançamento de Notas
+# Cadastro de Alunos
 
 ## Visão Geral do Projeto
 
